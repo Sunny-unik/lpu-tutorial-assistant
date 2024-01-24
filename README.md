@@ -1,30 +1,25 @@
 <div align="center">
 
-# template-repository
+# lpu-tutorial-assistant
 
-> This is a template repository which simplifies initialization of repository from scratch.
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Sunny-unik/template-repository)
+> This is a repository which consist a python script to automatically complete tutorials of LPU-online.
 
 </div>
 
 ## Tech Stack
 
-- [TODO: Tech Stack]
+- python
+- jupyter
 
 ## 🤝 Contributing
 
-We encourage you to contribute to [TODO: Repo Name]! All contributors are required to abide by our [Code of Conduct](/docs/Code-of-conduct.md). Please check out the [Contributing guide](/docs/Contributing.md) for guidelines about how to proceed with your contribution.
+All contributors are required to abide by our [Code of Conduct](/docs/Code-of-conduct.md). Please check out the [Contributing guide](/docs/Contributing.md) for guidelines about how to proceed with your contribution.
 Feel free for start discussion.
 
 ## Project Setup
 
 For development setup read [getting started guide](/docs/Getting-started-guide.md)
 
-# Deployment
-
-This website is deployed on [TODO: Service link]
-
 ## ⚖️ LICENSE
 
-MIT © [Sunny-unik/template-repository](LICENSE)
+MIT © [Sunny-unik/lpu-tutorial-assistant](LICENSE)
