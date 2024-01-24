@@ -9,3 +9,4 @@
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [lpu-tutorial-assistant](https://github.com/Sunny-unik/lpu-tutorial-assistant) to your own GitHub account.
 2. Clone the forked repository to your local machine.
+3. Create `.env` file and fill environment variables as following written in `.env.example` file.
